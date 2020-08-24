@@ -147,6 +147,9 @@ html body .header .menu .menu-list li ul li {
 .course-slider .my-slider .slick-dots button {
     display: none;
 }
+    .course-slider .my-slider .slider-items {
+    margin-top: 15px;
+}
 .contact{
     top: 1750px;
     height: 1240px;
@@ -222,6 +225,9 @@ html body .header .menu .menu-list li ul li {
 .testinomial {
     /* display: none; */
     top: 3592px;
+}
+    .testinomial .main-test-cont .test-para {
+    width: 75%;
 }
 .blog {
     top: 4242px;
