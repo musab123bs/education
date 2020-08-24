@@ -223,6 +223,9 @@ html body .header .menu .menu-list li ul li {
     /* display: none; */
     top: 3592px;
 }
+    .testinomial .main-test-cont .test-para {
+    width: 320px;
+}
 .blog {
     top: 4242px;
 }
