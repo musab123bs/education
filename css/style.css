@@ -506,7 +506,7 @@ box-shadow: 1px 2px 5px #000;
 .testinomial.main-test-cont .test-para {}
 .testinomial .main-test-cont {
     padding-top: 90px;
-    /* width: 450px; */
+    width: 450px;
 }
 .testinomial .main-test-cont .test-heading {
     display: flex;
