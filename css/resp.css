@@ -262,6 +262,15 @@ html body .header .menu .menu-list li ul li {
 .footer .footer-content .footer-col {
     margin-top: 15px;
 }
+    .footer .footer-content .footer-col input {
+    height: 30px;
+    width: 160px;
+}
+    .footer .footer-content .footer-col i {
+    padding: 6px 10px 8px 10px;
+    position: absolute;
+    bottom: 35px;
+}
 .footer-col-1 {
     margin-top: 50px !important;
 }
